@@ -48,7 +48,6 @@ export default function RootLayout({
           <div className="mx-auto w-full max-w-[425px] min-w-[425px] min-h-screen bg-white shadow-xl">
             {children}
           </div>
-        </PokemonProvider>
       </body>
     </html>
     
